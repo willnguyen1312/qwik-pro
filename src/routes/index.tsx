@@ -30,22 +30,22 @@ export default component$(() => {
           </div>
           <>
             <p>
-              <code>npm run dev</code>
+              <code>pnpm run dev</code>
               <br />
               Starts the development server and watches for changes
             </p>
             <p>
-              <code>npm run preview</code>
+              <code>pnpm run preview</code>
               <br />
               Creates production build and starts a server to preview it
             </p>
             <p>
-              <code>npm run build</code>
+              <code>pnpm run build</code>
               <br />
               Creates production build
             </p>
             <p>
-              <code>npm run qwik add</code>
+              <code>pnpm run qwik add</code>
               <br />
               Runs the qwik CLI to add integrations
             </p>
